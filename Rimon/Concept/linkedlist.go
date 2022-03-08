@@ -11,7 +11,7 @@ type LinkedList struct {
 }
 
 func (L *LinkedList) insert(key int) {
-	nd := &Node{
+	var nd *Node = &Node{
 		data: key,
 		next: nil,
 	}
