@@ -11,7 +11,7 @@ def topView(root):
     q = [(root,0)]
     pos = 0
     mp = dict()
-    
+    #
     mp[pos] = root
     while q: 
         f,pos = q.pop(0)
