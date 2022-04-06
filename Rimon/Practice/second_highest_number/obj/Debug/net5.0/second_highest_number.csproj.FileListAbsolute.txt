@@ -1,0 +1,16 @@
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/bin/Debug/net5.0/second_highest_number
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/bin/Debug/net5.0/second_highest_number.deps.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/bin/Debug/net5.0/second_highest_number.runtimeconfig.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/bin/Debug/net5.0/second_highest_number.runtimeconfig.dev.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/bin/Debug/net5.0/second_highest_number.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/bin/Debug/net5.0/ref/second_highest_number.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/bin/Debug/net5.0/second_highest_number.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/obj/Debug/net5.0/second_highest_number.csproj.AssemblyReference.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/obj/Debug/net5.0/second_highest_number.GeneratedMSBuildEditorConfig.editorconfig
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/obj/Debug/net5.0/second_highest_number.AssemblyInfoInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/obj/Debug/net5.0/second_highest_number.AssemblyInfo.cs
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/obj/Debug/net5.0/second_highest_number.csproj.CoreCompileInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/obj/Debug/net5.0/second_highest_number.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/obj/Debug/net5.0/ref/second_highest_number.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/obj/Debug/net5.0/second_highest_number.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/second_highest_number/obj/Debug/net5.0/second_highest_number.genruntimeconfig.cache
