@@ -1,0 +1,16 @@
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/obj/Debug/net5.0/center_align_given_string.csproj.AssemblyReference.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/obj/Debug/net5.0/center_align_given_string.GeneratedMSBuildEditorConfig.editorconfig
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/obj/Debug/net5.0/center_align_given_string.AssemblyInfoInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/obj/Debug/net5.0/center_align_given_string.AssemblyInfo.cs
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/obj/Debug/net5.0/center_align_given_string.csproj.CoreCompileInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/bin/Debug/net5.0/center_align_given_string
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/bin/Debug/net5.0/center_align_given_string.deps.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/bin/Debug/net5.0/center_align_given_string.runtimeconfig.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/bin/Debug/net5.0/center_align_given_string.runtimeconfig.dev.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/bin/Debug/net5.0/center_align_given_string.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/bin/Debug/net5.0/ref/center_align_given_string.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/bin/Debug/net5.0/center_align_given_string.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/obj/Debug/net5.0/center_align_given_string.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/obj/Debug/net5.0/ref/center_align_given_string.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/obj/Debug/net5.0/center_align_given_string.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/center_align_given_string/obj/Debug/net5.0/center_align_given_string.genruntimeconfig.cache

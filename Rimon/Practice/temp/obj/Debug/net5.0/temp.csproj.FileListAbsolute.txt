@@ -1,0 +1,16 @@
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/obj/Debug/net5.0/temp.csproj.AssemblyReference.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/obj/Debug/net5.0/temp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/obj/Debug/net5.0/temp.AssemblyInfoInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/obj/Debug/net5.0/temp.AssemblyInfo.cs
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/obj/Debug/net5.0/temp.csproj.CoreCompileInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/bin/Debug/net5.0/temp
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/bin/Debug/net5.0/temp.deps.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/bin/Debug/net5.0/temp.runtimeconfig.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/bin/Debug/net5.0/temp.runtimeconfig.dev.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/bin/Debug/net5.0/temp.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/bin/Debug/net5.0/ref/temp.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/bin/Debug/net5.0/temp.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/obj/Debug/net5.0/temp.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/obj/Debug/net5.0/ref/temp.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/obj/Debug/net5.0/temp.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/temp/obj/Debug/net5.0/temp.genruntimeconfig.cache

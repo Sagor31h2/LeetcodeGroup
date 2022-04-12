@@ -1,0 +1,16 @@
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/obj/Debug/net5.0/reverse each word.csproj.AssemblyReference.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/obj/Debug/net5.0/reverse each word.GeneratedMSBuildEditorConfig.editorconfig
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/obj/Debug/net5.0/reverse each word.AssemblyInfoInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/obj/Debug/net5.0/reverse each word.AssemblyInfo.cs
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/obj/Debug/net5.0/reverse each word.csproj.CoreCompileInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/bin/Debug/net5.0/reverse each word
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/bin/Debug/net5.0/reverse each word.deps.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/bin/Debug/net5.0/reverse each word.runtimeconfig.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/bin/Debug/net5.0/reverse each word.runtimeconfig.dev.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/bin/Debug/net5.0/reverse each word.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/bin/Debug/net5.0/ref/reverse each word.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/bin/Debug/net5.0/reverse each word.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/obj/Debug/net5.0/reverse each word.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/obj/Debug/net5.0/ref/reverse each word.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/obj/Debug/net5.0/reverse each word.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/reverse each word/obj/Debug/net5.0/reverse each word.genruntimeconfig.cache
