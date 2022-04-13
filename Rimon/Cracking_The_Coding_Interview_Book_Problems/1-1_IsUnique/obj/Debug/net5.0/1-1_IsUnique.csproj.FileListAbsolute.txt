@@ -1,0 +1,16 @@
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/bin/Debug/net5.0/1-1_IsUnique
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/bin/Debug/net5.0/1-1_IsUnique.deps.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/bin/Debug/net5.0/1-1_IsUnique.runtimeconfig.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/bin/Debug/net5.0/1-1_IsUnique.runtimeconfig.dev.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/bin/Debug/net5.0/1-1_IsUnique.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/bin/Debug/net5.0/ref/1-1_IsUnique.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/bin/Debug/net5.0/1-1_IsUnique.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/obj/Debug/net5.0/1-1_IsUnique.csproj.AssemblyReference.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/obj/Debug/net5.0/1-1_IsUnique.GeneratedMSBuildEditorConfig.editorconfig
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/obj/Debug/net5.0/1-1_IsUnique.AssemblyInfoInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/obj/Debug/net5.0/1-1_IsUnique.AssemblyInfo.cs
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/obj/Debug/net5.0/1-1_IsUnique.csproj.CoreCompileInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/obj/Debug/net5.0/1-1_IsUnique.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/obj/Debug/net5.0/ref/1-1_IsUnique.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/obj/Debug/net5.0/1-1_IsUnique.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Cracking_The_Coding_Interview_Book_Problems/1-1_IsUnique/obj/Debug/net5.0/1-1_IsUnique.genruntimeconfig.cache

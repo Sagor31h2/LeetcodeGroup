@@ -1,0 +1,16 @@
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/obj/Debug/net5.0/defanging-an-ip-address.csproj.AssemblyReference.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/obj/Debug/net5.0/defanging-an-ip-address.GeneratedMSBuildEditorConfig.editorconfig
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/obj/Debug/net5.0/defanging-an-ip-address.AssemblyInfoInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/obj/Debug/net5.0/defanging-an-ip-address.AssemblyInfo.cs
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/obj/Debug/net5.0/defanging-an-ip-address.csproj.CoreCompileInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/bin/Debug/net5.0/defanging-an-ip-address
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/bin/Debug/net5.0/defanging-an-ip-address.deps.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/bin/Debug/net5.0/defanging-an-ip-address.runtimeconfig.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/bin/Debug/net5.0/defanging-an-ip-address.runtimeconfig.dev.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/bin/Debug/net5.0/defanging-an-ip-address.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/bin/Debug/net5.0/ref/defanging-an-ip-address.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/bin/Debug/net5.0/defanging-an-ip-address.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/obj/Debug/net5.0/defanging-an-ip-address.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/obj/Debug/net5.0/ref/defanging-an-ip-address.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/obj/Debug/net5.0/defanging-an-ip-address.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/defanging-an-ip-address/obj/Debug/net5.0/defanging-an-ip-address.genruntimeconfig.cache

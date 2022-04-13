@@ -1,0 +1,16 @@
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/obj/Debug/net5.0/multiple_of_3.csproj.AssemblyReference.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/obj/Debug/net5.0/multiple_of_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/obj/Debug/net5.0/multiple_of_3.AssemblyInfoInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/obj/Debug/net5.0/multiple_of_3.AssemblyInfo.cs
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/obj/Debug/net5.0/multiple_of_3.csproj.CoreCompileInputs.cache
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/bin/Debug/net5.0/multiple_of_3
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/bin/Debug/net5.0/multiple_of_3.deps.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/bin/Debug/net5.0/multiple_of_3.runtimeconfig.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/bin/Debug/net5.0/multiple_of_3.runtimeconfig.dev.json
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/bin/Debug/net5.0/multiple_of_3.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/bin/Debug/net5.0/ref/multiple_of_3.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/bin/Debug/net5.0/multiple_of_3.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/obj/Debug/net5.0/multiple_of_3.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/obj/Debug/net5.0/ref/multiple_of_3.dll
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/obj/Debug/net5.0/multiple_of_3.pdb
+/home/mosfak/Documents/coding/LeetcodeGroup/Rimon/Practice/multiple_of_3/obj/Debug/net5.0/multiple_of_3.genruntimeconfig.cache
